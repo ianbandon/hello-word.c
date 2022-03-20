@@ -1,0 +1,4 @@
+﻿  text_3.20.c
+c:\users\hp\source\repos\代码\text_3.20\text_3.20\text_3.20.c(13): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  c:\users\hp\source\repos\代码\text_3.20\text_3.20\text_3.20.c(13): note: 请考虑在格式字符串中使用“%zd”
+  text_3.20.vcxproj -> C:\Users\HP\source\repos\代码\text_3.20\x64\Debug\text_3.20.exe
